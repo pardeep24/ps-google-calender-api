@@ -1,0 +1,12 @@
+{
+    "name": "ps-google-calander-api/calender-api",
+    "description": "Google Calender Api Package for connect data with Google Calender",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Pardeep",
+            "email": "shamrapardeep971@gmail.com"
+        }
+    ],
+    "require": {}
+}
